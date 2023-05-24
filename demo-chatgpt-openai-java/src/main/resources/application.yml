@@ -1,0 +1,8 @@
+server:
+  port: 8888
+
+openai:
+  proxyHost: 127.0.0.1
+  proxyPort: 7890
+  keys:
+    - sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
